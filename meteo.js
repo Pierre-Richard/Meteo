@@ -1,7 +1,7 @@
 let ville = 'Paris';
 // appeler la fonction recevoirTemperature(ville)
 recevoirTemperature(ville);
-
+// test
 
 let changerDeVille = document.querySelector('#changer');
 changerDeVille.addEventListener('click', () => {
